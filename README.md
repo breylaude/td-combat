@@ -1,5 +1,7 @@
 # TD Combat Game
 
+A text RPG Project in C++
+
 Install `SDL_image` library
 
 Debian
